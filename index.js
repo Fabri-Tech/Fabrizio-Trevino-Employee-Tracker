@@ -65,3 +65,10 @@ async function newQuestion() {
       break;
   }
 }
+
+async function view(table) {
+  const result = await dbQuery(`SELECT * FROM ${table}`);
+  console.table(result);
+  await newQuestion();
+}
+
