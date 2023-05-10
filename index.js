@@ -5,6 +5,7 @@ const db = mysql.createConnection(
   {
     host: 'localhost',
     user: 'root',
+    // hide the password
     password: process.env.EMPLOYEE_DB_PASSWORD,
     database: 'employee_db',
   },
