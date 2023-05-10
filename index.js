@@ -10,7 +10,7 @@ const db = mysql.createConnection(
     database: 'employee_db',
   },
   () => {
-    console.log(`Welcome to the employee_db database.`);
+    console.log(`Welcome to the employee database.`);
   }
 );
 
@@ -105,7 +105,7 @@ async function addDepartment() {
 // Add other functions here...
 
 function exit() {
-  console.log('Thanks for using my application');
+  console.log('See you soon');
   process.exit();
 }
 
