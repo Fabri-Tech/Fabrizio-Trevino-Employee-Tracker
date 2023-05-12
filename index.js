@@ -8,7 +8,6 @@ const db = mysql.createConnection(
     // hide the password
     // everytime you login you will need to place this in the terminal and replace the password
     // export EMPLOYEE_DB_PASSWORD=your_password_here
-
     password: process.env.EMPLOYEE_DB_PASSWORD,
     database: 'employee_db',
   },
@@ -62,6 +61,9 @@ async function newQuestion() {
       await addEmployee();
       break;
     case 'update an employee role':
+      await updateEmployee();
+      break;
+    case 'Modify an employee role':
       await updateEmployee();
       break;
     case 'exit':
