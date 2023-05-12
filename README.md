@@ -34,6 +34,12 @@ Selecting any of these options will prompt the user to enter any necessary infor
 
 ![employees](./assets/employees.JPG)
 
+## Links for the project
+
+[Video Link](https://github.com/Fabri-Tech/Fabrizio-Trevino-Employee-Tracker)
+
+[Repository](https://drive.google.com/file/d/13XwPX5MXs10sFAQ_Mne3hlfuwUSCcfqs/view)
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
