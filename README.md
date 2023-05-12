@@ -36,9 +36,9 @@ Selecting any of these options will prompt the user to enter any necessary infor
 
 ## Links for the project
 
-[Video Link](https://github.com/Fabri-Tech/Fabrizio-Trevino-Employee-Tracker)
+[Video Link](https://drive.google.com/file/d/13XwPX5MXs10sFAQ_Mne3hlfuwUSCcfqs/view)
 
-[Repository](https://drive.google.com/file/d/13XwPX5MXs10sFAQ_Mne3hlfuwUSCcfqs/view)
+[Repository](https://github.com/Fabri-Tech/Fabrizio-Trevino-Employee-Tracker)
 
 ## Contributing
 
